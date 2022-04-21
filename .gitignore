@@ -2,3 +2,4 @@ logs/
 venv/
 jdk*/
 clientportal*
+*cache*
